@@ -1,4 +1,6 @@
-## Hi there 👋
+## meu nome é luis gustavo silva de abreu
+## estou estudando na alura
+## estou me desenvolvendo na linguagem javascript
 
 <!--
 **abreul2007/abreul2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
